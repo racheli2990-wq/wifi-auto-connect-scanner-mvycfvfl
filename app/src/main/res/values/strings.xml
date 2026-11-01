@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">סורק Wi-Fi</string>
+    <string name="wifi_on">פעיל</string>
+    <string name="wifi_off">כבוי</string>
+    <string name="permission_required">נדרשת הרשאת מיקום לסריקת רשתות Wi-Fi</string>
+    <string name="no_networks">לא נמצאו רשתות Wi-Fi בסביבה</string>
+    <string name="connected_to">מחובר ל: %s</string>
+    <string name="connecting">מתחבר ל-%s...</string>
+    <string name="connect_success">התחברת בהצלחה ל-%s</string>
+    <string name="connect_failed">נכשל החיבור ל-%s</string>
+    <string name="signal_strong">קליטה חזקה</string>
+    <string name="signal_medium">קליטה בינונית</string>
+    <string name="signal_weak">קליטה חלשה</string>
+</resources>
